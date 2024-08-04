@@ -16,13 +16,5 @@
       <FileName>stock-photos-jpeg-2018-1.tar.xz</FileName>
       <FileSize>35384500</FileSize>
     </Package>
-    <Package>
-      <URL>https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.28-setup.exe</URL>
-      <MD5>662c9b26d4e0cb07b4722473ac55b61d</MD5>
-      <SHA256>2c2e081ce541682be1abdd8bc6df13768ad9482d68000b4a7a60c764d6cec74e</SHA256>
-      <FileName>gimp-2.10.28-setup.exe</FileName>
-      <FileSize>249654104</FileSize>
-      <PlatformSpecific>Windows</PlatformSpecific>
-    </Package>
   </Downloads>
 </PhoronixTestSuite>
